@@ -1,0 +1,10 @@
+com/quotes/QuotesApplication.java
+ com.quotes.QuotesApplication
+com/quotes/service/QuoteService.java
+ com.quotes.service.QuoteService
+com/quotes/model/Quote.java
+ com.quotes.model.Quote
+com/quotes/repository/QuoteRepository.java
+ com.quotes.repository.QuoteRepository
+com/quotes/controller/QuoteController.java
+ com.quotes.controller.QuoteController

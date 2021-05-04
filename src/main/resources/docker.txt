@@ -1,0 +1,2 @@
+docker build --build-arg JAR_FILE=build/libs/quotesapp-0.0.1-SNAPSHOT.jar -t eimspl/quotesapp.
+docker run -p 8080:8080 eimspl:quotesapp
